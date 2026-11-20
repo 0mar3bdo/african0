@@ -1,0 +1,4 @@
+name=عبايه خليجي
+colors=نبيتي. موف. بترولي. اسود. مسطرده
+description=عبايه كالونا خليجي
+category=Luxurious
